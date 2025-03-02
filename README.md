@@ -12,4 +12,4 @@ Desenvolvi o projeto utilizando Maven e implementei conceitos de encapsulamento 
 
 ## DIAGRAMA DA SOLUÇÃO:
 
-![image alt](https://github.com/RafaelFQ/dio-desafio-board-tarefas/blob/7804f4cd783e0d6e24bc6c462d010a7f67601400/DiagramaBoard.jpg)
+![image alt](https://github.com/RafaelFQ/desafio-dio-board-tarefas/blob/aca2e98ad2f5955a36e7d0dba529c649a89cda7b/DiagramaBoard.jpg)
